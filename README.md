@@ -20,4 +20,4 @@ para recrear una página de Pinterest como el ejemplo dado en LMS.
 
 `Nota:`
 
-*Este trabajo se ha subido a gh-pages [aquí](https://yaniraab.github.io/pinterest/).
+*Este trabajo se ha subido a gh-pages [aquí](https://yaniraab.github.io/pinterest-animales/).
